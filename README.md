@@ -12,6 +12,6 @@ Hi there! I'm an aspiring entrepreneur, owner of a small business, and excited t
 
 This year hoping to start an open source Github project: a mobile AI social self development app. <br><br>
 
-I love technology, tae a scond to explore my GitHub repositories. Request here to Join: <br>
+I love technology, tae a scond to explore my GitHub repositories. Request here to Manage / Join one: <br>
 I'd love to connect and discuss any ideas or questions you might have!<br>
 📫  <a href="mailto: support@bowhip.org">email</a> | <a href="mailto: adkinscc@gmailcom">email 2</a>
