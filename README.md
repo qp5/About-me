@@ -1,5 +1,5 @@
 # About-me
-Roadmap of upcomming plans <br><br>
+⭐ Roadmap of upcomming plans <br><br>
 
 
 Hi there! I'm an aspiring entrepreneur, owner of a small business, and excited to finaly be launching a few products this 2024:<br>
