@@ -13,5 +13,5 @@ Open source Mobile Ai App, aimed at fostering insight and encouragement. Crosspl
 While the Addons can be written in most launguages, actual app & website launguage to be decided. (i18n) 
 Participate: To develope core, to learn about Addons, and to participate on project <a href="mailto: support@bowhip.org">enquire here</a>.<br><br>
 
-Love to connect and discuss any ideas or questions you might have.<br>
+Hope to connect and discuss any ideas or questions you might have.<br>
 Suggestions/feedback 📫 <a href="mailto: adkinscc@gmail.com">contact</a> | <a href="mailto: support@bowhip.org">email 2</a><br>
