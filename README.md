@@ -2,7 +2,8 @@
 ⭐ Roadmap of upcomming plans <br><br>
 
 
-Hi there! I'm an aspiring entrepreneur launching a few products this year 2024:<br>
+Hi there!<br>
+I'm an aspiring entrepreneur launching a few products this year 2024:<br>
 
  ● Mobile app AI <a style="text-decoration: none" href="https://github.com/qp5/bowHip_app">phone assistant</a> interacts with default Text & Dialer apps.<br>
  ● Working on a SAFE style agreement - a social impact approach were a capped % of $ goes to humanitarian causes.<br>
