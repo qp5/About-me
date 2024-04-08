@@ -4,9 +4,9 @@
 
 Hi there! I'm an aspiring entrepreneur launching a few products this year 2024:<br>
 
- ● a <a style="text-decoration: none" href="https://github.com/qp5/bowHip_app">mobile AI app phone assistant</a> interacts with default Text & Dialer apps.<br>
- ● I work on a SAFE style agreement - a social impact approach were a capped % of $ goes to humanitarian causes.<br>
- ● Launching unique online products: Visor glasses, a minimal Phone case, and uni Sandles (to wear on iether foot).<br><br>
+ ● A <a style="text-decoration: none" href="https://github.com/qp5/bowHip_app">mobile AI app phone assistant</a> interacts with default Text & Dialer apps.<br>
+ ● Working on a SAFE style agreement - a social impact approach were a capped % of $ goes to humanitarian causes.<br>
+ ● Launching unique online products: eg. Visor glasses, a minimal Phone case, and uni Sandles (to wear on iether foot).<br><br>
 
 Starting soon:<br>
 Open source Mobile Ai App, aimed at fostering insight and encouragement. Crossplatform App and website supporting developer Addons.<br>
