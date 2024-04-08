@@ -2,16 +2,16 @@
 ⭐ Roadmap of upcomming plans <br><br>
 
 
-Hi there! I'm an aspiring entrepreneur, owner of a small business, and excited to finaly be launching a few products this 2024:<br>
+Hi there! I'm an aspiring entrepreneur launching a few products this year 2024:<br>
 
- ● a mobile AI app phone assistant: interacts with default Text & Dialer apps.<br>
+ ● a <a style="text-decoration: none" href="https://github.com/qp5/bowHip_app">mobile AI app phone assistant</a> interacts with default Text & Dialer apps.<br>
+ ● I work on a SAFE style agreement - a social impact approach were a capped % of $ goes to humanitarian causes.<br>
+ ● Launching unique online products: Visor glasses, a minimal Phone case, and uni Sandles (to wear on iether foot).<br><br>
 
- ● I work on a SAFE stye agreement - a social-bio impact approach were a % of $ goes to humanitarian causes.<br>
+Starting soon:<br>
+Open source Mobile Ai App, aimed at fostering insight and encouragement. Crossplatform App and website supporting developer Addons.<br>
+While the Addons can be written in most launguages, actual app & website launguage to be decided. (i18n) 
+Participate: To develope core, to learn about Addons, and to participate on project <a href="mailto: support@bowhip.org">enquire here</a>.<br><br>
 
- ● Plans to sell unique online products: Visor glasses,. a minimal Phone case,. and uni Sandles (were on iether foot).<br>
-
-This year hoping to start an open source Github project: a mobile AI social self development app. <br><br>
-
-I love technology, tae a scond to explore my GitHub repositories. Request here to Manage / Join one: <br>
-also love to connect and discuss any ideas or questions you might have.<br>
-📫  <a href="mailto: support@bowhip.org">email</a> | <a href="mailto: adkinscc@gmailcom">email 2</a>
+Love to connect and discuss any ideas or questions you might have.<br>
+Suggestions/feedback 📫 <a href="mailto: support@bowhip.org">contact me</a> | <a href="mailto: adkinscc@gmailcom">email 2</a><br>
