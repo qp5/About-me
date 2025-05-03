@@ -1,7 +1,7 @@
 # About-me<br><br>
 
  ● <a target="_blank" href="https://bowhip.org/aboutMe">About me</a> Honeybee habitat & coloney collaps dissorder<br>
- ● <a target="_blank" href="https://bowhip.org/origins_of_addiction">My younger self</a> Growing up in Southern california. :) <br>
+ ● <a target="_blank" href="https://bowhip.org/origins_of_addiction">My younger self</a> Growing up in southern california. :) <br>
  ● First online social group: <a target="_blank" href="https://letterboxd.com/qp5/lists/">deviart</a> & Taskbar <a target="_blank" https://www.wincustomize.com/users/2270043/jimmyyy">Jump Lists</a> befor windows introduced Windows 7 (2009)<br>
  ● <a target="_blank" href="https://letterboxd.com/qp5/lists/">Favorite movies</a> before <a target="_blank" href="https://bowhip.org/testimonial">Netflix</a> crashed<br><br>
 
