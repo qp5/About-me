@@ -2,9 +2,9 @@
 
  ● <a target="_blank" href="https://bowhip.org/aboutMe">About me</a> Honeybee habitat & coloney collaps dissorder <br>
  ● <a target="_blank" href="https://bowhip.org/origins_of_addiction">My younger self</a> Growing up in southern california. :) <br>
- ● First online social group: <a target="_blank" href="https://letterboxd.com/qp5/lists/">deviart</a> & Taskbar <a target="_blank" href="https://www.wincustomize.com/users/2270043/jimmyyy">Jump Lists</a> befor windows introduced Windows 7 (2009)<br>
+ ● First online social group: <a target="_blank" href="https://letterboxd.com/qp5/lists/">deviart</a> & Taskbar <a target="_blank" href="https://www.wincustomize.com/users/2270043/jimmyyy">Jump Lists</a> before they were introduced in 2009 on Windows 7 <br>
  ● <a target="_blank" href="https://letterboxd.com/qp5/lists/">Favorite movies</a> before <a target="_blank" href="https://bowhip.org/testimonials_bH">Netflix</a> crashed<br>
- ● <a target="_blank" href="https://bowhip.org">BowHip</a><br>
+ ● <a target="_blank" href="https://bowhip.org">BowHip</a><br><br>
 
 
 
