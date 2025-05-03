@@ -32,4 +32,3 @@ Suggestions/feedback 📫 <a href="mailto: adkinscc@gmail.com">contact</a> | <a 
 
 Thank you for visiting. <br>
 John <br>
-760 300-1111<br>
