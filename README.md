@@ -9,14 +9,14 @@
 
 
 
-⭐ <b>Roadmap of upcomming plans</b> <br>
+⭐ <b>Roadmap of upcomming plans:</b> <br>
 Aspiring social entrepreneur launching a few 2025 prodject. <br>
 
 Flagship project:<br>
 Open source Social Mobile App, code name <a href="https://github.com/qp5/kaleidoscope">kaleidoscope</a> media & content delivery aimed at fostering insight and encouragement for self development. Crossplatform App and website supporting developer Addons.<br>
 Addons can be written in common launguages.. (i18n) 
 
-Projects:<br>
+Other Projects:<br>
  ● <a href="https://shopchange.square.site/product/uni-sandel-wear-on-either-foot/5?cs=true&cst=custom">Uni Sandal</a> — Wear on either foot . Fun no fuss footwear, Lazywere, missmatch <a href="https://shopchange.square.site/product/uni-sandel-wear-on-either-foot/5?cs=true&cst=custom">your sandles</a> Dont have to keep them paired.<br>
 ● <a style="text-decoration: none" href="https://shopchange.square.site/product/visor-glasses/3?cs=true&cst=custom">Holo Glasses</a> Lensless visor glasses, Outdoor sun guard for reading and computer work. "Like reading with your eyes closed" <br>
  - Outdoor Sunglare: photographing, videoing outdoors. Working. Remote flying and outdoor sports.<br>
