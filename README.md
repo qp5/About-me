@@ -10,7 +10,7 @@
 
 
 ⭐ <b>Roadmap of upcomming plans:</b> <br>
-Aspiring social entrepreneur launching a few 2025 prodject. <br>
+Aspiring social entrepreneur launching a few 2025 prodject. <br><br>
 
 Flagship project:<br>
 Open source Social Mobile App, code name <a href="https://github.com/qp5/kaleidoscope">kaleidoscope</a> media & content delivery aimed at fostering insight and encouragement for self development. Crossplatform App and website supporting developer Addons.<br>
