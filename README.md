@@ -9,7 +9,7 @@
 
 
 
-⭐ Roadmap of upcomming plans <br>
+⭐ <b>Roadmap of upcomming plans</b> <br>
 Aspiring social entrepreneur launching a few 2025 prodject. <br>
 
 Flagship project:<br>
