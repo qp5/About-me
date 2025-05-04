@@ -18,9 +18,8 @@ Supporting developer Addons for common launguages (i18n) <br>
 Intent:<br>
 "To spark insight & encouragement"<br>
 "Breakpoint for the mind to flourish."<br>
-"A construct for ones mind to elevate"<br>
+"A construct for the mind to elevate"<br>
 "Where thought branches, and ideas commit."<br><br>
-
 
 
 Other Projects:<br>
