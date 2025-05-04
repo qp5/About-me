@@ -13,8 +13,15 @@
 Aspiring social entrepreneur launching a few 2025 prodject. <br><br>
 
 Flagship project:<br>
-Open source Social Mobile App, code name <a href="https://github.com/qp5/kaleidoscope">kaleidoscope</a> media & content delivery aimed at fostering insight and encouragement for self development. Crossplatform App and website supporting developer Addons.<br>
-Addons can be written in common launguages.. (i18n) 
+Open source content delivery Progressive Web App (PWA), code name <a href="https://github.com/qp5/kaleidoscope">kaleidoscope</a>; to foster insight & encouragement. <br>
+Supporting developer Addons for common launguages (i18n) 
+Intent:<br>
+"To spark insight & encouragement"<br>
+"Breakpoint for the mind to flourish."<br>
+"A construct for ones mind to elevate"<br>
+"Where thought branches, and ideas commit."<br><br>
+
+
 
 Other Projects:<br>
 1 ● <a href="https://shopchange.square.site/product/uni-sandel-wear-on-either-foot/5?cs=true&cst=custom">Uni Sandal</a> — Wear on either foot . Fun no fuss footwear, Lazywere, missmatch <a href="https://shopchange.square.site/product/uni-sandel-wear-on-either-foot/5?cs=true&cst=custom">your sandles</a> Dont have to keep them paired.<br>
