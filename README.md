@@ -14,7 +14,7 @@ Aspiring social entrepreneur launching a few 2025 prodject. <br><br>
 
 Flagship project:<br>
 Open source content delivery Progressive Web App (PWA), code name <a href="https://github.com/qp5/kaleidoscope">kaleidoscope</a>; to foster insight & encouragement. <br>
-Supporting developer Addons for common launguages (i18n) 
+Supporting developer Addons for common launguages (i18n) <br>
 Intent:<br>
 "To spark insight & encouragement"<br>
 "Breakpoint for the mind to flourish."<br>
