@@ -29,7 +29,7 @@ Here are my other Projects:<br>
     ‒ Use Indoors: Library | airport | busy rooms | Computers, Laptops, eReader, books and reading.<br>
 3 ● Mobile app <a target="_blank" href="https://bowhip.org/">bowHip</a> interacts with default Text & Dialer apps.<br>
 4 ● Developing a social SAFE Agreement - a <a target="_blank" href="https://bowhip.org/holy_write#business">social impact approach</a> to business.<br>
-5 ● <a style="text-decoration: none" href="https://shopchange.square.site/product/ultralight-vr-headset/9?cs=true&cst=custom">Ultralight VR Headset</a> Attach ultralight LCD screen to Google Cardboard VR (without weight of Mobile device) Similar to wearing a large pair of sunglasses. (Option Bluetooth /wifi) Prototype.<br><br>
+5 ● <a style="text-decoration: none" href="https://shopchange.square.site/product/ultralight-vr-headset/9?cs=true&cst=custom">Ultralight VR Headset</a> Attach ultralight LCD to Google Cardboard VR without a heavy Mobile device. (Option Bluetooth /wifi) Prototype.<br><br>
 
 
 Connect with & discuss projects:<br>
