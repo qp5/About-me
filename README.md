@@ -4,7 +4,7 @@
  ● <a target="_blank" href="https://bowhip.org/origins_of_addiction">My younger self</a> Growing up in southern california. :) <br>
  ● First online social group: <a target="_blank" href="https://letterboxd.com/qp5/lists/">deviart</a> & Taskbar <a target="_blank" href="https://www.wincustomize.com/users/2270043/jimmyyy">Jump Lists</a> before they were introduced in 2009 on Windows 7 <br>
  ● <a target="_blank" href="https://letterboxd.com/qp5/lists/">Favorite movies</a> before <a target="_blank" href="https://bowhip.org/testimonials_bH">Netflix</a> crashed<br>
- ● <a target="_blank" href="https://bowhip.org">BowHip</a><br><br>
+ ● <a target="_blank" href="https://bowhip.org/foster">BowHip</a><br><br>
 
 
 
@@ -18,17 +18,17 @@ Supporting developer Addons for common launguages (i18n) <br>
 Intent:<br>
 "To spark insight & encouragement"<br>
 "Breakpoint for the mind to flourish."<br>
-"A construct for the mind to elevate"<br>
-"Where thought branches, and ideas commit."<br><br>
+"A construct for the mind to revive"<br>
+"Where thought branches, and ideas ignite."<br><br>
 
 
 Here are my other Projects:<br>
 1 ● <a href="https://shopchange.square.site/product/uni-sandel-wear-on-either-foot/5?cs=true&cst=custom">UniFoot Sandal</a> — Wear on either foot. Fun no fuss footwear, Lazywere, Missmatch your sandles, dont have to keep them paired.<br>
 2 ● <a style="text-decoration: none" href="https://shopchange.square.site/product/visor-glasses/3?cs=true&cst=custom">Holo Glasses</a> Lensless visor glasses: Outdoor sun guard for reading and computer work. "Like reading with your eyes closed" <br>
-    ‒ Remove sunglare outdoors: PC, Reading, Photography, Video, Remote equipment, Drone, and sports.<br>
+    ‒ Remove sunglare outdoors: Computer work, Reading, Photography, Video, Remote equipment, Drone, and sports.<br>
     ‒ Use Indoors: Library | airport | busy rooms | Computers, Laptops, eReader, books and reading.<br>
-3 ● Mobile app AI <a style="text-decoration: none" href=""></a> interacts with default Text & Dialer apps.<br>
-4 ● Working on a Social SAFE Agreement - a social impact approach.<br>
+3 ● Mobile app AI <a target="_blank" href="https://bowhip.org/">bowHip</a> interacts with default Text & Dialer apps.<br>
+4 ● Developing a social SAFE Agreement - a <a target="_blank" href="https://bowhip.org/holy_write#business">social impact approach</a> to business.<br>
 5 ● <a style="text-decoration: none" href="https://shopchange.square.site/product/ultralight-vr-headset/9?cs=true&cst=custom">Ultralight VR Headset</a> Attach ultralight LCD screen to Google Cardboard VR (without weight of Mobile device) Similar to wearing a large pair of sunglasses. (Option Bluetooth /wifi) Prototype.<br><br>
 
 
