@@ -33,7 +33,7 @@ Other projects / ideas:<br>
 5 ● <a style="text-decoration: none" href="https://shopchange.square.site/product/ultralight-vr-headset/9?cs=true&cst=custom">Ultralight VR Headset</a> Attach ultralight LCD to Google Cardboard VR without a heavy Mobile device. (Option Bluetooth /wifi) Prototype.<br><br>
 
 
-Connect / chat with:<br>
+Connect to chat with:<br>
 Suggestions/feedback 📫 <a href="mailto: adkinscc@gmail.com">contact</a> | <a href="mailto: support@bowhip.org">email 2</a><br><br>
 
 Thank you for visiting. <br>
