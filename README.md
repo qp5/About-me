@@ -25,8 +25,8 @@ Intent:<br>
 Here are my other Projects:<br>
 1 ● <a href="https://shopchange.square.site/product/uni-sandel-wear-on-either-foot/5?cs=true&cst=custom">UniFoot Sandal</a> — Wear on either foot. Fun no fuss footwear, Lazywere, Missmatch your sandles, dont have to keep them paired.<br>
 2 ● <a style="text-decoration: none" href="https://shopchange.square.site/product/visor-glasses/3?cs=true&cst=custom">Holo Glasses</a> Lensless visor glasses: Outdoor sun guard for reading and computer work. "Like reading with your eyes closed" <br>
-    ‒ Remove sunglare outdoors: PC, Reading, Photo & Videoing, Remote equipment, Drone flying, and outdoor sports.<br>
-    ‒ Use Indoors: Library | airport | busy rooms.Computers | Laptops | eReader | reading.<br>
+    ‒ Remove sunglare outdoors: PC, Reading, Photography, Video, Remote equipment, Drone, and sports.<br>
+    ‒ Use Indoors: Library | airport | busy rooms | Computers, Laptops, eReader, books and reading.<br>
 3 ● Mobile app AI <a style="text-decoration: none" href=""></a> interacts with default Text & Dialer apps.<br>
 4 ● Working on a Social SAFE Agreement - a social impact approach.<br>
 5 ● <a style="text-decoration: none" href="https://shopchange.square.site/product/ultralight-vr-headset/9?cs=true&cst=custom">Ultralight VR Headset</a> Attach ultralight LCD screen to Google Cardboard VR (without weight of Mobile device) Similar to wearing a large pair of sunglasses. (Option Bluetooth /wifi) Prototype.<br><br>
