@@ -23,7 +23,7 @@ Intent:<br>
 "Where thought branches, and ideas ignite."<br><br>
 
 
-Links to my other projects & ideas:<br>
+Other projects / ideas:<br>
 1 ● <a href="https://shopchange.square.site/product/uni-sandel-wear-on-either-foot/5?cs=true&cst=custom">UniFoot Sandal</a> — Wear on either foot. Fun no fuss footwear, Lazywere, Missmatch your sandles, dont have to keep them paired.<br>
 2 ● <a style="text-decoration: none" href="https://shopchange.square.site/product/visor-glasses/3?cs=true&cst=custom">Holo Glasses</a> Lensless visor glasses: Outdoor sun guard for reading and computer work. "Like reading with your eyes closed" <br>
     ‒ Remove sunglare outdoors: Computer work, Reading, Photography, Video, Remote equipment, Drone, and sports.<br>
