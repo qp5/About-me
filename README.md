@@ -34,7 +34,7 @@ Other projects / ideas:<br>
 
 
 Connect:<br>
-Suggestions/feedback 📫 <a href="mailto: adkinscc@gmail.com">contact</a> | <a href="mailto: support@bowhip.org">email 2</a><br><br>
+📫 <a href="mailto: adkinscc@gmail.com">contact</a> | <a href="mailto: support@bowhip.org">email 2</a><br><br>
 
 Thank you for visiting. <br>
 John <br>
