@@ -1,19 +1,20 @@
 # About-me<br>
-John Adkins <br><br>
+John Adkins<br>
+Aspiring social entrepreneur launching a few 2025 prodject.  <br><br>
 
  ● <a target="_blank" href="https://bowhip.org/aboutMe">About me</a> Honeybee habitat & coloney collaps dissorder <br>
  ● <a target="_blank" href="https://bowhip.org/origins_of_addiction">My younger self</a> Growing up in southern california. :) <br>
  ● First online social group:  Taskbar <a target="_blank" href="https://www.wincustomize.com/users/2270043/jimmyyy">Jump Lists</a> before they were introduced in 2009 on Windows 7 <br>
- ● <a target="_blank" href="https://letterboxd.com/qp5/lists/">Favorite movies</a> before <a target="_blank" href="https://bowhip.org/testimonials_bH">Netflix</a> crashed<br>
+ ● <a target="_blank" href="https://letterboxd.com/qp5/lists/">Favorite movies</a> before <a target="_blank" <br>
  ● <a target="_blank" href="https://bowhip.org/foster">BowHip</a><br><br>
 
 
 
 
 ⭐ <b>Roadmap of upcomming plans:</b> <br>
-Aspiring social entrepreneur launching a few 2025 prodject. <br><br>
+<br>
 
-Flagship project:<br>
+<b>Flagship project:</b><br>
 Open source content delivery Progressive Web App (PWA), code name <a href="https://github.com/qp5/kaleidoscope">kaleidoscope</a>; to foster insight & encouragement. <br>
 Supporting developer Addons for common launguages (i18n) <br>
 Intent:<br>
