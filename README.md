@@ -4,7 +4,7 @@ Aspiring social entrepreneur launching a few 2025 prodject.  <br><br>
 
  ● <a target="_blank" href="https://bowhip.org/aboutMe">About me</a> Honeybee habitat & coloney collaps dissorder <br>
  ● <a target="_blank" href="https://bowhip.org/origins_of_addiction">My younger self</a> Growing up in southern california. :) <br>
- ● <a target="_blank" href="https://www.wincustomize.com/users/2270043/jimmyyy">Jump Lists</a> (First online social group) before Taskbar Jumplists were introduced in 2009 on Windows 7 <br>
+ ● <a target="_blank" href="https://www.wincustomize.com/users/2270043/jimmyyy">Jump Lists</a> (First online social group) before Windows Taskbar Jumplists were introduced<br>
  ● <a target="_blank" href="https://letterboxd.com/qp5/lists/">Favorite movies</a> before <a target="_blank" <br>
  ● <a target="_blank" href="https://bowhip.org/foster">BowHip</a><br><br>
 
