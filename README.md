@@ -10,7 +10,6 @@ Aspiring social entrepreneur launching a few 2025 prodject.  <br><br>
 
 
 ⭐ <b>Roadmap of upcomming plans:</b> <br>
-<br>
 
 <b>Flagship project:</b><br>
 Open source content delivery Progressive Web App (PWA), code name <a href="https://github.com/qp5/kaleidoscope">kaleidoscope</a>; to foster insight & encouragement. <br>
