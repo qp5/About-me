@@ -6,7 +6,7 @@ Aspiring social entrepreneur launching a few 2025 prodject.  <br><br>
  ● <a target="_blank" href="https://bowhip.org/origins_of_addiction">My younger self</a> Growing up in southern california. :) <br>
  ● <a target="_blank" href="https://www.deviantart.com/pariah07">Deviant</a> | <a target="_blank" href="https://www.wincustomize.com/users/2270043/jimmyyy">Jump Lists</a> (First online social group) before Windows Taskbar Jumplists existed<br>
  ● <a target="_blank" href="https://letterboxd.com/qp5/lists/">Favorite movies</a> List of motion pictures films. Documentaries not yet included.<br>
- ● <a target="_blank" href="https://bowhip.org/foster">BowHip</a> Self insight.<br><br>
+ ● <a target="_blank" href="https://bowhip.org/foster">BowHip</a> self insight.<br><br>
 
 
 ⭐ <b>Roadmap of upcomming plans:</b> <br>
