@@ -21,11 +21,11 @@ Intent:<br>
 "Where thought branches, and ideas ignite."<br><br>
 
 
-Other projects / ideas:<br>
+Other projects:<br>
 1 ● <a href="https://shopchange.square.site/product/uni-sandel-wear-on-either-foot/5?cs=true&cst=custom">UniFoot Sandal</a> — Wear on either foot. Fun no fuss footwear, Lazywere, Missmatch your sandles, dont have to keep them paired.<br>
-2 ● <a style="text-decoration: none" href="https://shopchange.square.site/product/visor-glasses/3?cs=true&cst=custom">Holo Glasses</a> Lensless visor glasses: Outdoor sun guard for reading and computer work. "Like reading with your eyes closed" <br>
+2 ● <a style="text-decoration: none" href="https://shopchange.square.site/product/visor-glasses/3?cs=true&cst=custom">Visor Glasses</a> Indoor / Outdoor sun guard for Clssroom & library use. Indoor work enviroments: workgroup tables, labs, medical, and indoor light sdjustiment. Outdoor use: computer work, reading, and more. <br>
     ‒ Remove sunglare outdoors: Computer work, Reading, Photography, Video, Remote equipment, Drone, and sports.<br>
-    ‒ Use Indoors: Library | airport | busy rooms | Computers, Laptops, eReader, books and reading.<br>
+    ‒ Use Indoors: Library | airport | busy rooms | Computers | Laptops | eReader | books and reading.<br>
 3 ● Mobile app <a target="_blank" href="https://bowhip.org/">bowHip</a> interacts with default Text & Dialer apps.<br>
 4 ● Developing a social SAFE Agreement - a <a target="_blank" href="https://bowhip.org/holy_write#business">social impact approach</a> to business.<br>
 5 ● <a style="text-decoration: none" href="https://shopchange.square.site/product/ultralight-vr-headset/9?cs=true&cst=custom">Ultralight VR Headset</a> Attach ultralight LCD to Google Cardboard VR without a heavy Mobile device. (Option Bluetooth /wifi) Prototype.<br><br>
