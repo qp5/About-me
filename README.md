@@ -18,7 +18,7 @@ Intent:<br>
 "To spark insight & encouragement"<br>
 "Breakpoint for the mind to flourish."<br>
 "A construct for the mind to revive"<br>
-"Where thought branches, and ideas ignite."<br><br>
+"Where thought branches, and ideas voyage."<br><br>
 
 
 Other projects:<br>
