@@ -9,7 +9,7 @@ Aspiring social entrepreneur launching a few 2025 prodject.  <br><br>
  ● <a target="_blank" href="https://bowhip.org/foster">BowHip</a> self insight.<br><br>
 
 
-⭐ <b>Roadmap of upcomming plans:</b> <br>
+⭐ <b>Roadmap of plans:</b><br>
 
 <b>Flagship project:</b><br>
 Open source content delivery Progressive Web App (PWA), code name <a href="https://github.com/qp5/kaleidoscope">kaleidoscope</a>; to foster insight & encouragement. <br>
